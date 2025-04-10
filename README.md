@@ -5,11 +5,6 @@
 AccuLap is a streamlined stopwatch app designed specifically for Apple Watch that focuses on accuracy and simplicity. Perfect for runners, swimmers, coaches, and anyone who needs precise lap timing without complicated features getting in the way.
 
 <img width="174" alt="Screenshot_4_10_25__3_07 PM" src="https://github.com/user-attachments/assets/7bc95ac9-8f9a-40c2-a8b2-48c07a7258b5" />
-![Simulator Screenshot - Apple Watch Ultra 2 (49mm) - 2025-04-09 at 14 20 30](https://github.com/user-attachments/assets/306258a4-217d-4f8f-8acd-e5a0142b3533)
-![Simulator Screenshot - Apple Watch Ultra 2 (49mm) - 2025-04-09 at 14 20 53](https://github.com/user-attachments/assets/f2445c30-4807-4164-aaf5-c53fa27eeff6)
-![Simulator Screenshot - Apple Watch Ultra 2 (49mm) - 2025-04-09 at 14 22 32](https://github.com/user-attachments/assets/68f70f7b-37ce-4534-a50e-9415127ffa76)
-
-
 
 ## Features
 
